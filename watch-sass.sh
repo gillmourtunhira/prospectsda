@@ -1,0 +1,1 @@
+sass --watch ./css/prospect.scss ./css/prospect.css --style compressed
